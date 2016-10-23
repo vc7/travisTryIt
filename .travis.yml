@@ -1,4 +1,4 @@
-language: swift
+language: objective-c
 osx_image: xcode8.0
 xcode_project: travisTryIt.xcodeproj
 xcode_scheme: travisTryIt
